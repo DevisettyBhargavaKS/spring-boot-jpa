@@ -28,5 +28,3 @@ Steps followed to develop the API:-
     👉 Used save(), findById(), findAll() methods to get query results.
     👉 Used JPQL for named queries.
     👉 Used "OneToMany" and "ManyToOne" relationships to map the tables by using annotations.
-has context menu
-Compose
